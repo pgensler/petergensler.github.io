@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: You're up and running!
 ---
 
@@ -8,6 +9,7 @@ Next you can update your site name, avatar and other options using the _config.y
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 ``` r
+options(width=150)
 #Create WorkOut Log Table
 playernum <- c(34,16,13,22,34,13,9,7)
 dateofwrkout <- c("1/26/1983","1/30/1983","1/4/1983","1/6/1983","1/8/1983","1/24/1983","1/14/1983","1/18/1983")
