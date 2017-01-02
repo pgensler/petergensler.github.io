@@ -1,6 +1,7 @@
 .post code {
   border: 1px solid #e0e0e0;
   background-color: #f0f0f0;
+  font-family: 'Courier', monospace;
   padding: 8px 12px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -9,10 +10,6 @@
   overflow: auto;
 }
 
-code {
-  font-family: 'Courier', monospace;
-
-}
 
 .highlight  { background: #ffffff; }
 .highlight .c { color: #807d7c; font-style: italic }
